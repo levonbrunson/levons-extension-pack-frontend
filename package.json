@@ -1,0 +1,38 @@
+{
+    "name": "levons-extension-pack-frontend",
+    "displayName": "Levon's Extension Pack (Frontend)",
+    "description": "Extension pack with mainly frontend-based extensions.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "blanu.vscode-styled-jsx",
+        "dbaeumer.vscode-eslint",
+        "davidanson.vscode-markdownlint",
+        "eamodio.gitlens",
+        "ecmel.vscode-html-css",
+        "esbenp.prettier-vscode",
+        "equinusocio.vsc-community-material-theme",
+        "gruntfuggly.todo-tree",
+        "hediet.vscode-drawio",
+        "mgmcdermott.vscode-language-babel",
+        "mkaufman.HTMLHint",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-vsliveshare.vsliveshare",
+        "ms-vsliveshare.vsliveshare-audio",
+        "ms-vsliveshare.vsliveshare-pack",
+        "msjsdiag.debugger-for-chrome",
+        "msjsdiag.vscode-react-native",
+        "pkief.material-icon-theme",
+        "ritwickdey.LiveServer",
+        "streetsidesoftware.code-spell-checker",
+        "stylelint.vscode-stylelint",
+        "vincaslt.highlight-matching-tag",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
