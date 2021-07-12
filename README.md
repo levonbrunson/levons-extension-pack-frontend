@@ -1,16 +1,26 @@
 # README
 
-## This is the README for your extension pack "levons-extension-pack-frontend"
+My extension pack for frontend work.
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+VSCode Extensions:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+- Babel JavaScript | mgmcdermott.vscode-language-babel
+- Code Spell Checker | streetsidesoftware.code-spell-checker
+- Draw.io Integration | hediet.vscode-drawio
+- ESLint | dbaeumer.vscode-eslint
+- HTML CSS Support | ecmel.vscode-html-css
+- HTMLHint | mkaufman.htmlhint
+- Live Server | ritwickdey.liveserver
+- Live Share | ms-vsliveshare.vsliveshare ms-vsliveshare.vsliveshare-audio ms-vsliveshare.vsliveshare-pack
+- Visual Studio IntelliCode | visualstudioexptteam.vscodeintellicode
+- vscode-styled-jsx | blanu.vscode-styled-jsx
+- Todo Tree | gruntfuggly.todo-tree
+- Prettier Code formatter | esbenp.prettier-vscode
+- Git Lens | eamodio.gitlens
+- markdownlint | davidanson.vscode-markdownlint
 
-## For more information
+Themes:
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+- Community Material Theme | equinusocio.vsc-community-material-theme
+- Highlight Matching Tag | vincaslt.highlight-matching-tag
+- Material Icon Theme | pkief.material-icon-theme

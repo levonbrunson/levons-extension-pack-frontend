@@ -4,6 +4,10 @@
     "description": "Extension pack with mainly frontend-based extensions.",
     "version": "0.0.1",
     "publisher": "LevonBrunson",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/levonbrunson/levons-extension-pack-frontend.git"
+    },
     "engines": {
         "vscode": "^1.58.0"
     },
