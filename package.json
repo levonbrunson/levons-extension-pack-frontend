@@ -3,6 +3,7 @@
     "displayName": "Levon's Extension Pack (Frontend)",
     "description": "Extension pack with mainly frontend-based extensions.",
     "version": "0.0.1",
+    "publisher": "LevonBrunson",
     "engines": {
         "vscode": "^1.58.0"
     },
