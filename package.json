@@ -2,7 +2,7 @@
     "name": "levons-extension-pack-frontend",
     "displayName": "Levon's Extension Pack (Frontend)",
     "description": "Extension pack with mainly frontend-based extensions.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "LevonBrunson",
     "repository": {
         "type": "git",
