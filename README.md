@@ -18,6 +18,7 @@ VSCode Extensions:
 - Prettier Code formatter | esbenp.prettier-vscode
 - Git Lens | eamodio.gitlens
 - markdownlint | davidanson.vscode-markdownlint
+- Error Lens | usernamehw.errorlens
 
 Themes:
 
