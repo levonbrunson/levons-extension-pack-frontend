@@ -25,7 +25,7 @@
         "gruntfuggly.todo-tree",
         "hediet.vscode-drawio",
         "mgmcdermott.vscode-language-babel",
-        "mkaufman.HTMLHint",
+        "HTMLHint.vscode-htmlhint",
         "ms-python.python",
         "ms-python.vscode-pylance",
         "ms-vsliveshare.vsliveshare",
@@ -37,6 +37,7 @@
         "ritwickdey.LiveServer",
         "streetsidesoftware.code-spell-checker",
         "stylelint.vscode-stylelint",
+        "usernamehw.errorlens",
         "vincaslt.highlight-matching-tag",
         "VisualStudioExptTeam.vscodeintellicode"
     ]
